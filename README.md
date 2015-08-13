@@ -10,17 +10,17 @@ Feel free to add your project :)
 
 
 # Table of Contents
-* [Well-known Distributions](#Well-known-Distributions)
-* [Embeddable Scripting Languages](#Embeddable-Scripting-Languages)
-* [Third Modules](#Third-Modules)
-	* [C Modules](#C-Modules)
-	* [Lua Modules](#Lua-Modules)
-* [Built-in Modules](#Built-in-Modules)
-* [Tools](#Tools)
-* [Tutorials](#Tutorials)
-* [Mailing Lists](#Mailing-Lists)
-* [Forum](#Forum)
-* [Active Developers](#Active-Developers)
+* [Well-known Distributions](#well-known-Distributions)
+* [Embeddable Scripting Languages](#embeddable-Scripting-Languages)
+* [Third Modules](#third-Modules)
+	* [C Modules](#c-Modules)
+	* [Lua Modules](#lua-Modules)
+* [Built-in Modules](#built-in-Modules)
+* [Tools](#tools)
+* [Tutorials](#tutorials)
+* [Mailing Lists](#mailing-Lists)
+* [Forum](#forum)
+* [Active Developers](#active-Developers)
 
 ## Well-known Distributions
 * [OpenResty](https://github.com/openresty/ngx_openresty)
