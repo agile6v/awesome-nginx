@@ -1,7 +1,7 @@
 all: hello
 
 test:
-    ./hello
+	./hello
 
 clean:
-    rm -f hello *.o
+	rm -f hello *.o
