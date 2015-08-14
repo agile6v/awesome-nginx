@@ -1,7 +1,7 @@
 
 
 
-# Awesome Nginx
+# Awesome Nginx [![Build Status](https://travis-ci.org/agile6v/awesome-nginx.svg?branch=master)](https://travis-ci.org/agile6v/awesome-nginx)
 A curated list of awesome nginx distributions、third modules、active developers and so forth.
 
 If you want to contribute, please submit a pull request.
