@@ -158,7 +158,6 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - Opinionated Lua RabbitMQ client library for the ngx_lua apps based on the cosocket API. 
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Raw-socket-based Logger Library for Nginx.
 * [lua-resty-beanstalkd](https://github.com/smallfish/lua-resty-beanstalkd) - non-blocking beanstalkd client lib for ngx_lua. 
-
 * [lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) - LuaJIT FFI-based cJSON library for OpenResty. 
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) - Session library for OpenResty implementing Secure Cookie Protocol.
 * [lua-resty-validation](https://github.com/bungle/lua-resty-validation) - Validation Library (Input Validation and Filtering) for Lua and OpenResty. 
@@ -169,15 +168,12 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor. 
 * [lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) - LuaJIT FFI bindings for Nettle (a low-level cryptographic library).
 * [lua-resty-rack](https://github.com/pintsized/lua-resty-rack) - A simple and extensible HTTP server framework for OpenResty.
-
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) - Upstream connection load balancing and failover module for Openresty.
 * [lua-resty-dns-cache](https://github.com/hamishforbes/lua-resty-dns-cache) - Cache wrapper for lua-resty-dns. 
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) - Library to interface with the consul HTTP API from ngx_lua.
-
 * [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) - Lua gearman client driver for the ngx_lua based on the cosocket API.
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty. 
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server.
-
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA encrypt/decrypt & sign/verify for LuaJIT.
 * [lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) - I must be crazy trying to send mail with Nginx.. 
 * [lua-resty-riak](https://github.com/bakins/lua-resty-riak) - Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API.
