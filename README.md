@@ -133,30 +133,32 @@ These modules are not distributed with the Nginx source.
 
 
 ###Lua Modules
-* [lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) - Nginx C module to expose Lua API to ngx_lua for Nginx upstreams.
-* [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua. 
-* [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries. 
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
+* [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API. 
+* [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Nonblocking Lua MySQL driver library for ngx_lua. 
+* [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) - Nonblocking Lua PostgreSQL driver library for ngx_lua. 
+* [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) - Pure Lua Cassandra client using CQL binary protocol.
+* [lua-resty-fastcgi](https://github.com/benagricola/lua-resty-fastcgi) - Lua FCGI client driver for ngx_lua based on the cosocket API. 
+* [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server. 
+* [lua-resty-fastdfs](https://github.com/azurewang) - Nonblocking Lua FastDFS driver library for ngx_lua.
+* [lua-resty-mongol](https://github.com/Olivine-Labs/resty-mongol) - Lua MongoDB driver. 
+* [lua-resty-oceanbase](https://github.com/hugozhu/lua-resty-oceanbase) - Lua OceanBase client driver for ngx_lua based on the cosocket API.
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) - Lua-land LRU Cache based on LuaJIT FFI. 
 * [lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based API for lua-nginx-module. 
-* [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Nonblocking Lua MySQL driver library for ngx_lua. 
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) - Streaming reader and parser for http file uploading based on ngx_lua cosocket.
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) - WebSocket support for the ngx_lua module (and OpenResty). 
 * [lua-resty-dns](https://github.com/openresty/lua-resty-dns) - DNS resolver for the nginx lua module.
-* [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API. 
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) - String utilities and common hash functions for ngx_lua and LuaJIT.
 * [lua-redis-parser](https://github.com/openresty/lua-redis-parser) - Lua module for parsing raw redis responses. 
 * [lua-rds-parser](https://github.com/openresty/lua-rds-parser) - Resty DBD Stream (RDS) parser for Lua written in C.
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua. 
-* [lua-resty-template](https://github.com/bungle/lua-resty-template) - Templating Engine (HTML) for Lua and OpenResty..
-* [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) - Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server. 
-* [lua-resty-fastdfs](https://github.com/azurewang) - Nonblocking Lua FastDFS driver library for ngx_lua.
+* [lua-resty-template](https://github.com/bungle/lua-resty-template) - Templating Engine (HTML) for Lua and OpenResty
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) - Lua library for HTTP cookie manipulations for OpenResty/ngx_lua. 
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - Lua kafka client driver for the ngx_lua based on the cosocket API.
 * [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - Opinionated Lua RabbitMQ client library for the ngx_lua apps based on the cosocket API. 
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) - Raw-socket-based Logger Library for Nginx.
 * [lua-resty-beanstalkd](https://github.com/smallfish/lua-resty-beanstalkd) - non-blocking beanstalkd client lib for ngx_lua. 
-* [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) - Pure Lua Cassandra client using CQL binary protocol.
+
 * [lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) - LuaJIT FFI-based cJSON library for OpenResty. 
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) - Session library for OpenResty implementing Secure Cookie Protocol.
 * [lua-resty-validation](https://github.com/bungle/lua-resty-validation) - Validation Library (Input Validation and Filtering) for Lua and OpenResty. 
@@ -167,16 +169,15 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) - LuaJIT FFI bindings for Snappy, a fast compressor/decompressor. 
 * [lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) - LuaJIT FFI bindings for Nettle (a low-level cryptographic library).
 * [lua-resty-rack](https://github.com/pintsized/lua-resty-rack) - A simple and extensible HTTP server framework for OpenResty.
-* [lua-resty-mongol](https://github.com/Olivine-Labs/resty-mongol) - Lua MongoDB driver. 
-* [lua-resty-oceanbase](https://github.com/hugozhu/lua-resty-oceanbase) - Lua OceanBase client driver for ngx_lua based on the cosocket API.
+
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) - Upstream connection load balancing and failover module for Openresty.
 * [lua-resty-dns-cache](https://github.com/hamishforbes/lua-resty-dns-cache) - Cache wrapper for lua-resty-dns. 
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) - Library to interface with the consul HTTP API from ngx_lua.
-* [lua-resty-fastcgi](https://github.com/benagricola/lua-resty-fastcgi) - Lua FCGI client driver for ngx_lua based on the cosocket API. 
+
 * [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) - Lua gearman client driver for the ngx_lua based on the cosocket API.
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty. 
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) - tiny subprocess/shell library to use with OpenResty application server.
-* [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) - Nonblocking Lua PostgreSQL driver library for ngx_lua. 
+
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) - RSA encrypt/decrypt & sign/verify for LuaJIT.
 * [lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) - I must be crazy trying to send mail with Nginx.. 
 * [lua-resty-riak](https://github.com/bakins/lua-resty-riak) - Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API.
@@ -203,7 +204,9 @@ These modules are not distributed with the Nginx source.
 * [lua-nginx-osm](https://github.com/miurahr/lua-nginx-osm) - OpenStreetMap extension for Nginx Lua module. 
 * [nginx-tcp-lua-module](https://github.com/bigplum/nginx-tcp-lua-module) - A TCP server with lua supporting based on nginx.
 * [nginx-google-oauth](https://github.com/agoragames/nginx-google-oauth) - Lua module to add Google OAuth to nginx. 
-
+* [lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) - Nginx C module to expose Lua API to ngx_lua for Nginx upstreams.
+* [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua. 
+* [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries. 
 
 
 ##Built-in Modules
