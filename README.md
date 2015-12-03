@@ -227,7 +227,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.. 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) - A bash script for deleting items from Nginx cache. 
 * [ngx-admintools](https://github.com/rmacd/ngx-admintools) - Debian Administration Tools for nginx web server. 
-
+* [Datadog](https://www.datadoghq.com) - Full stack monitoring tool for cloud-scale infrastructures with NGINX integration.  
 
 ##Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
@@ -239,6 +239,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Nginx book](https://github.com/taobao/nginx-book) - Nginx from primer to expert (In Chinese).
 * [Nginx module development](http://www.evanmiller.org/nginx-modules-guide.html) - Emiller's guide to nginx module development. 
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
+* [How to Monitor NGINX](https://www.datadoghq.com/blog/how-to-monitor-nginx/) - [Datadog's](https://www.datadoghq.com) in-depth guide explains how to monitor NGINX activity, error, reverse proxy, and availability metrics and how to use them to identify performance issues.
+* [How to Collect NGINX Metrics](https://www.datadoghq.com/blog/how-to-collect-nginx-metrics/) - [Datadog's](https://www.datadoghq.com) guide to collecting NGINX open-source, plus, and logs metrics. 
 
 ##Mailing Lists
 
