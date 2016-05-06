@@ -39,7 +39,7 @@ These modules are not distributed with the Nginx source.
 
 
 ### C Modules
-* [lua-nginx-module](https:/* /github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX.
+* [lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX.
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server.
 * [xss-nginx-module](https://github.com/openresty/xss-nginx-module) - Native support for cross-site scripting (XSS) in an nginx.
 * [srcache-nginx-module](https://github.com/openresty/srcache-nginx-module) - Transparent subrequest-based caching layout for arbitrary nginx locations. 
