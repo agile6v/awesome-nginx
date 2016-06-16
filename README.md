@@ -227,7 +227,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.. 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) - A bash script for deleting items from Nginx cache. 
 * [ngx-admintools](https://github.com/rmacd/ngx-admintools) - Debian Administration Tools for nginx web server. 
-
+* [nginx-config-formatter](https://github.com/1connect/nginx-config-formatter) - Nginx config file formatter/beautifier written in Python.
 
 ##Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
