@@ -264,7 +264,6 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Evan Miller](https://github.com/evanmiller)
 * [Valentin V. Bartenev](https://twitter.com/ngx_vbart)
 * [Valery Kholodkov](https://github.com/vkholodkov/)
-* [Andrei Nigmatulin](author of the php-fpm)
 * [Wandenberg Peixoto](https://github.com/wandenberg)
 * [Joshua Zhu](https://github.com/zhuzhaoyuan)
 * [Simpl](https://github.com/simpl)
