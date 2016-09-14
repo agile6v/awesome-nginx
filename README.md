@@ -130,6 +130,7 @@ These modules are not distributed with the Nginx source.
 * [Session-Binding-Proxy](https://github.com/wburgers/Session-Binding-Proxy) - An Nginx module capable of binding the application session to the SSL session by encrypting the application cookie with a secret key and the SSL master key. 
 * [ngx_http_gif_magick](https://github.com/mschenck/ngx_http_gif_magick) - nginx http filter module for dynamically resizing gifs with ImageMagick. 
 * [nginx-upload-progress-module](https://github.com/masterzen/nginx-upload-progress-module) - Nginx module implementing an upload progress system, that monitors RFC1867 POST uploads as they are transmitted to upstream servers. 
+* [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - Nginx module for on-the-fly generating of avatars based on user initials.
 
 
 ###Lua Modules
