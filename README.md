@@ -33,6 +33,9 @@ Feel free to add your project :)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
 
+## Builder
+This is bash command line builder that uses this curated list to automate installing and compiling nginx
+* [nginx-builder](https://github.com/gp187/nginx-builder)
 
 ## Third Modules
 These modules are not distributed with the Nginx source.
