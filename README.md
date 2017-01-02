@@ -243,6 +243,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Nginx book](https://github.com/taobao/nginx-book) - Nginx from primer to expert (In Chinese).
 * [Nginx module development](http://www.evanmiller.org/nginx-modules-guide.html) - Emiller's guide to nginx module development. 
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
+* [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 
 ##Mailing Lists
 
