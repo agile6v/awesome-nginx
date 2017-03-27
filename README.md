@@ -136,7 +136,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - Nginx module for on-the-fly generating of avatars based on user initials.
 
 
-###Lua Modules
+### Lua Modules
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
 * [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API. 
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) - Nonblocking Lua MySQL driver library for ngx_lua. 
@@ -209,12 +209,12 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries. 
 
 
-##Built-in Modules
+## Built-in Modules
 For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 
 
-##Tools
+## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
 * [no-pool-nginx](https://github.com/openresty/no-pool-nginx) - replace nginx's pool mechanism with plain malloc & free to help tools like valgrind. 
 * [nginx-dtrace](https://github.com/openresty/nginx-dtrace) - An nginx fork that adds dtrace USDT probes. 
@@ -233,7 +233,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [ngx-admintools](https://github.com/rmacd/ngx-admintools) - Debian Administration Tools for nginx web server. 
 * [nginx-config-formatter](https://github.com/1connect/nginx-config-formatter) - Nginx config file formatter/beautifier written in Python.
 
-##Tutorials
+## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
 * [Nginx documentation](http://nginx.org/en/docs/) - Nginx documentation introduction. 
 * [Nginx blog](https://www.nginx.com/blog/) - News, views, and how-tos from nginx. 
@@ -245,7 +245,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
 * [nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 
-##Mailing Lists
+## Mailing Lists
 
 
 * [Nginx Mailman](http://mailman.nginx.org/mailman/listinfo)
@@ -253,13 +253,13 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 
 
-##Forum
+## Forum
 
 * [Nginx Forum](http://forum.nginx.org/)
 
 * [OpenResty Forum](http://groups.google.com/group/openresty-en)
 
-##Active Developers
+## Active Developers
 * [Igor Sysoev(author of nginx)](https://twitter.com/isysoev)
 * [Agentzh](https://github.com/agentzh)
 * [Maxim Dounin](https://twitter.com/mdounin)
