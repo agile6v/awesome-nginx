@@ -134,7 +134,6 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_gif_magick](https://github.com/mschenck/ngx_http_gif_magick) - nginx http filter module for dynamically resizing gifs with ImageMagick. 
 * [nginx-upload-progress-module](https://github.com/masterzen/nginx-upload-progress-module) - Nginx module implementing an upload progress system, that monitors RFC1867 POST uploads as they are transmitted to upstream servers. 
 * [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - Nginx module for on-the-fly generating of avatars based on user initials.
-
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 
 
