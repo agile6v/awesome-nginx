@@ -86,7 +86,8 @@ These modules are not distributed with the Nginx source.
 * [nginx-upload-module](https://github.com/vkholodkov/nginx-upload-module/tree/2.2) - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
 * [nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file. 
 * [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
-* [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module. 
+* [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module.
+* [url-protector-nginx-module](https://github.com/Trax-retail/url-protector-nginx-module) - Nginx module which adds ability to decrypt strings encrypted with xxtea algorithm.
 * [nginx-module-url](https://github.com/vozlt/nginx-module-url) - Nginx url encoding converting module.
 * [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx. 
 * [nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) - The fair load balancer module for nginx.
