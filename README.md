@@ -58,7 +58,7 @@ These modules are not distributed with the Nginx source.
 * [array-var-nginx-module](https://github.com/openresty/array-var-nginx-module) - Add support for array-typed variables to nginx config files.
 * [set-misc-nginx-module](https://github.com/openresty/set-misc-nginx-module) - Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more). 
 * [nginx-eval-module](https://github.com/vkholodkov/nginx-eval-module) - A module for evaluating memcached or proxy response into variable.
-* [ngx_pagespeed](https://github.com/pagespeed/ngx_pagespeed) - Automatic PageSpeed optimization module for Nginx. 
+* [ngx_pagespeed](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx. 
 * [ngx_devel_kit](https://github.com/simpl/ngx_devel_kit) - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
 * [ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches. 
 * [ngx_postgres](https://github.com/FRiCKLE/ngx_postgres) - upstream module that allows nginx to communicate directly with PostgreSQL database.
