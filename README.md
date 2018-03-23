@@ -240,6 +240,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [akamai-nginx](https://github.com/wyvern8/akamai-nginx) - Autoconfigure nginx based on Akamai property api rules using generated lua.
 * [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
 * [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) - NGINX plugin for OpenTracing.
+* [nixy](https://github.com/martensson/nixy) - Nginx auto configuration and service discovery for Mesos/Marathon
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
