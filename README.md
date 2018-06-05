@@ -136,6 +136,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-upload-progress-module](https://github.com/masterzen/nginx-upload-progress-module) - Nginx module implementing an upload progress system, that monitors RFC1867 POST uploads as they are transmitted to upstream servers. 
 * [ngx_http_avatars_gen_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) - Nginx module for on-the-fly generating of avatars based on user initials.
 * [ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
+* [modjpeg-nginx](https://github.com/ioppermann/modjpeg-nginx) - Filter module for adding overlays and logos to JPEGs on-the-fly without degrading the quality of the image.
 
 
 ### Lua Modules
