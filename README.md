@@ -12,7 +12,7 @@ Feel free to add your project :)
 # Table of Contents
 * [Well-known Distributions](#well-known-distributions)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
-* [Third Modules](#third-modules)
+* [Third Party Modules](#third-party-modules)
 	* [C Modules](#c-modules)
 	* [Lua Modules](#lua-modules)
 * [Built-in Modules](#built-in-modules)
@@ -37,7 +37,7 @@ Feel free to add your project :)
 This is bash command line builder that uses this curated list to automate installing and compiling nginx
 * [nginx-builder](https://github.com/gp187/nginx-builder)
 
-## Third Modules
+## Third Party Modules
 These modules are not distributed with the Nginx source.
 
 
