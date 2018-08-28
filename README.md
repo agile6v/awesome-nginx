@@ -2,7 +2,7 @@
 
 
 # Awesome Nginx [![Build Status](https://travis-ci.org/agile6v/awesome-nginx.svg?branch=master)](https://travis-ci.org/agile6v/awesome-nginx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome nginx distributions、third modules、active developers and so forth.
+A curated list of awesome nginx distributions, third party modules, active developers and so forth.
 
 If you want to contribute, please submit a pull request.
 
