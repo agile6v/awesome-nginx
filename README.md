@@ -142,6 +142,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_lfstack](https://github.com/Taymindis/ngx_lfstack) - a lock free stack(push/pop) container running on nginx share memory and it push/pop the messages across multiple threads and multiple workers without any locking.
 * [ngx-stomp](https://github.com/Taymindis/ngx-stomp) - A STOMP upstream module on nginx, STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol.
 * [nginx-elastic-client](https://github.com/Taymindis/nginx-elastic-client) - To structure your elastic client command in your nginx proxy for multiple elasticsearch server.
+* [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression.
 
 
 ### Lua Modules
