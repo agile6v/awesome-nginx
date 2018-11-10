@@ -143,6 +143,7 @@ These modules are not distributed with the Nginx source.
 * [ngx-stomp](https://github.com/Taymindis/ngx-stomp) - A STOMP upstream module on nginx, STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol.
 * [nginx-elastic-client](https://github.com/Taymindis/nginx-elastic-client) - To structure your elastic client command in your nginx proxy for multiple elasticsearch server.
 * [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression.
+* [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx.
 
 
 ### Lua Modules
