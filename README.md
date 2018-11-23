@@ -32,6 +32,7 @@ Feel free to add your project :)
 * [perl](http://nginx.org/en/docs/http/ngx_http_perl_module.html)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
+* [php](https://github.com/rryqszq4/ngx_php)
 
 ## Builder
 This is bash command line builder that uses this curated list to automate installing and compiling nginx
@@ -144,6 +145,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-elastic-client](https://github.com/Taymindis/nginx-elastic-client) - To structure your elastic client command in your nginx proxy for multiple elasticsearch server.
 * [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression.
 * [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx.
+* [ngx_php](https://github.com/rryqszq4/ngx_php) - Embedded php script language for nginx-module.
 
 
 ### Lua Modules
