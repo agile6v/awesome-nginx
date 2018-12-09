@@ -146,6 +146,7 @@ These modules are not distributed with the Nginx source.
 * [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression.
 * [nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx.
 * [ngx_php](https://github.com/rryqszq4/ngx_php) - Embedded php script language for nginx-module.
+* [ngx_http_guess_mime_module](https://github.com/ohnx/nginx-guess-mime) - Guess the MIME type of files served using libmagic.
 
 
 ### Lua Modules
