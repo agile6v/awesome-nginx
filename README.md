@@ -114,7 +114,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-hmux-module](https://github.com/wangbin579/nginx-hmux-module) - The module implements resin's hmux protocol in nginx. 
 * [nginx_ocsp_proxy-module](https://github.com/kyprizel/nginx_ocsp_proxy-module) - Nginx OCSP processing module designed for response caching. 
 * [nginx-hmac-secure-link](https://github.com/nginx-modules/nginx-hmac-secure-link) - Alternative Nginx secure link module with support for MD5, SHA-1, and SHA-2 hashes. 
-* [waf-nginx-module](https://github.com/hnlq715/waf-nginx-module) - A lightweight web application firewall module for nginx.. 
+* [waf-nginx-module](https://github.com/gsdu8g9/waf-nginx-module) - A lightweight web application firewall module for nginx.. 
 * [ngx-gm-filter](https://github.com/liseen/ngx-gm-filter) - Another image filter based GraphicsMagick.. 
 * [nginx-mod-so](https://github.com/hamano/nginx-mod-so) - nginx_mod_so is dynamic loadable module for Nginx. 
 * [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) - LDAP authentication module for nginx. 
