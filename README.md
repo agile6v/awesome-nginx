@@ -267,7 +267,6 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
 * [Nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
-* [Nginx-dev-examples](https://github.com/nginxinc/nginx-dev-examples) - NGINX module development examples
 
 ## Mailing Lists
 
