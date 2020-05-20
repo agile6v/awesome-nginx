@@ -148,6 +148,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_php](https://github.com/rryqszq4/ngx_php) - Embedded php script language for nginx-module.
 * [ngx_http_guess_mime_module](https://github.com/ohnx/nginx-guess-mime) - Guess the MIME type of files served using libmagic.
 * [ngx_http_stat_check](https://github.com/mk-fg/nginx-stat-check) - Dynamic access blacklisting configuration via filesystem paths.
+* [nginx_mime_magic_module](https://github.com/FadedCoder/nginx-mime-magic-module) - Another MIME guesser using libmagic with configurable Magic database path and fallback or compulsory mode.
 
 
 ### Lua Modules
