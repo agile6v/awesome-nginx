@@ -124,7 +124,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-markdown-module](https://github.com/gabrielfalcao/nginx-markdown-module) - renderize markdown as HTML directly from your upstream server. 
 * [nginx-nonewlines](https://github.com/vedang/nginx-nonewlines) - This is an nginx module to strip the served HTML of all newlines (\n and \r characters). 
 * [nginx-udplog-module](https://github.com/vkholodkov/nginx-udplog-module) - Implementation of logging using BSD Syslog Protocol for nginx (RFC 3164). 
-* [nginx-fancyindex](https://github.com/damm/nginx-fancyindex) - nginx fancy index module. 
+* [nginx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - nginx fancy index module. 
 * [nginx_ipset_blacklist](https://github.com/Vasfed/nginx_ipset_blacklist) - nginx module to use linux netfilter ipsets as blacklists. 
 * [nginx-mogilefs-module](https://github.com/vkholodkov/nginx-mogilefs-module) - MogileFS client for nginx. 
 * [ngx_http_php_session](https://github.com/replay/ngx_http_php_session) - nginx module to parse php sessions. 
