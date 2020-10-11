@@ -29,6 +29,7 @@ Feel free to add your project :)
 
 ## Other Distributions
 * [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
