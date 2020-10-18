@@ -11,7 +11,6 @@ Feel free to add your project :)
 
 # Table of Contents
 * [Well-known Distributions](#well-known-distributions)
-* [Other Distributions](#other-distributions)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
 * [Third Party Modules](#third-party-modules)
 	* [C Modules](#c-modules)
@@ -26,10 +25,6 @@ Feel free to add your project :)
 ## Well-known Distributions
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
-
-## Other Distributions
-* [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
-* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
@@ -262,6 +257,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [build-nginx](https://github.com/jaygooby/build-nginx) - An nginx build tool to really simplify downloading and building specific versions of nginx with different core and 3rd-party modules.
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
 * [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
