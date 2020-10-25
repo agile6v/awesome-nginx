@@ -26,6 +26,10 @@ Feel free to add your project :)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 
+## Minor Distributions
+
+* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
+
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
 * [javascript](https://github.com/kung-fu-tzu/ngx_http_js_module)
