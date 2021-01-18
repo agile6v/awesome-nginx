@@ -92,7 +92,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-module-url](https://github.com/vozlt/nginx-module-url) - Nginx url encoding converting module.
 * [ngx_small_light](https://github.com/cubicdaiya/ngx_small_light) - Dynamic Image Transformation Module For nginx. 
 * [nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) - The fair load balancer module for nginx.
-* [nginx_modSecurity](https://github.com/SpiderLabs/ModSecurity/tree/master/nginx) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. 
+* [nginx_modSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. 
 * [nginx-fluentd-module](https://github.com/fluent/nginx-fluentd-module) - Nginx module for Fluentd data collector.
 * [ngx_zeromq](https://github.com/FRiCKLE/ngx_zeromq) - ZeroMQ transport for nginx. 
 * [ngx_cache_viewer](https://github.com/agile6v/ngx_cache_viewer) - nginx module which adds ability to view cache node info from FastCGI, proxy, SCGI and uWSGI caches.
