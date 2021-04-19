@@ -248,7 +248,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.. 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) - A bash script for deleting items from Nginx cache. 
 * [ngx-admintools](https://github.com/rmacd/ngx-admintools) - Debian Administration Tools for nginx web server. 
-* [nginx-config-formatter](https://github.com/1connect/nginx-config-formatter) - Nginx config file formatter/beautifier written in Python.
+* [nginx-config-formatter](https://github.com/slomkowski/nginx-config-formatter) - Nginx config file formatter/beautifier written in Python.
 * [veryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly nginx base on lua-nginx-module( openresty  ) which provide WAF, Control Panel, and Dashboards.
 * [akamai-nginx](https://github.com/wyvern8/akamai-nginx) - Autoconfigure nginx based on Akamai property api rules using generated lua.
 * [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) - Online nginx configuration generator for general purposes.
