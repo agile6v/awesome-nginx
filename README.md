@@ -28,7 +28,7 @@ Feel free to add your project :)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
-* [javascript](https://github.com/kung-fu-tzu/ngx_http_js_module)
+* [javascript](https://nginx.org/en/docs/njs/)
 * [perl](http://nginx.org/en/docs/http/ngx_http_perl_module.html)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
