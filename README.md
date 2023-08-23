@@ -14,6 +14,7 @@ Feel free to add your project :)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
 * [Third Party Modules](#third-party-modules)
 	* [C Modules](#c-modules)
+    * [Rust Modules](#rust-modules)
 	* [Lua Modules](#lua-modules)
 * [Built-in Modules](#built-in-modules)
 * [Tools](#tools)
@@ -150,6 +151,8 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_stat_check](https://github.com/mk-fg/nginx-stat-check) - Dynamic access blacklisting configuration via filesystem paths.
 * [nginx_mime_magic_module](https://github.com/FadedCoder/nginx-mime-magic-module) - Another MIME guesser using libmagic with configurable Magic database path and fallback or compulsory mode.
 
+## Rust Modules
+* [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
 
 ### Lua Modules
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
