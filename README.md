@@ -35,6 +35,7 @@ Feel free to add your project :)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
 * [php](https://github.com/rryqszq4/ngx_php)
+* [wasm](https://github.com/Kong/ngx_wasm_module)
 
 ## Builder
 This is bash command line builder that uses this curated list to automate installing and compiling nginx
