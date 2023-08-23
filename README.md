@@ -24,6 +24,7 @@ Feel free to add your project :)
 * [Active Developers](#active-developers)
 
 ## Well-known Distributions
+* [NGINX](https://nginx.org/en/docs/install.html)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 
