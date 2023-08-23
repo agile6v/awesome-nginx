@@ -285,7 +285,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 ## Forum
 
 * [Nginx Forum](http://forum.nginx.org/)
-
+* [Nginx Community Slack](https://community.nginx.org/joinslack)
 * [OpenResty Forum](http://groups.google.com/group/openresty-en)
 
 ## Active Developers
