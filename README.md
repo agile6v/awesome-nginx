@@ -17,6 +17,7 @@ Feel free to add your project :)
     * [Rust Modules](#rust-modules)
 	* [Lua Modules](#lua-modules)
 * [Built-in Modules](#built-in-modules)
+* [Njs Projects](#njs-projects)
 * [Tools](#tools)
 * [Tutorials](#tutorials)
 * [Mailing Lists](#mailing-lists)
@@ -30,7 +31,7 @@ Feel free to add your project :)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
-* [javascript](https://nginx.org/en/docs/njs/)
+* [javascript (njs)](https://nginx.org/en/docs/njs/)
 * [perl](http://nginx.org/en/docs/http/ngx_http_perl_module.html)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
@@ -232,7 +233,18 @@ These modules are not distributed with the Nginx source.
 ## Built-in Modules
 For more details, see [nginx.org](http://nginx.org/en/docs/).
 
-
+## Njs Projects
+* [njs-types](https://npm.io/package/njs-types) - Provides type script type definitions for njs.
+* [njs-examples](https://github.com/nginx/njs-examples) - Examples of njs usage.
+* [nginx-njs-usecases](https://github.com/f5devcentral/nginx-njs-usecases) - A collection of njs use cases.
+* [njs-acme](https://github.com/nginx/njs-acme) - ACME protocol implementation in njs allowing Let's Encrypt certificates to be issued directly from nginx.
+* [nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) - S3 gateway for Nginx allowing to proxy requests directly to S3 private buckets.
+* [njs-memory-profiler](https://github.com/4141done/njs-memory-profiler) - Tool to understand per-request memory usage of njs scripts.
+* [nginx-dns](https://github.com/TuxInvader/nginx-dns) - Example njs configuration for using Nginx with DNS services.
+* [njs-prometheus-module](https://github.com/nginxinc/njs-prometheus-module) - Converts NGINX metrics exposed by the API module to a Prometheus format.
+* [nginx-xml-json](https://github.com/lcrilly/nginx-xml-json) - Proof-of-concept solution for presenting XML services as a JSON API.
+* [mqtt5](https://github.com/gallarda/mqtt5) - MQTT 5.0 protocol parser implemented in njs.
+* 
 
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
