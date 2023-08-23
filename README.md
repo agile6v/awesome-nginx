@@ -289,16 +289,6 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [OpenResty Forum](http://groups.google.com/group/openresty-en)
 
 ## Active Developers
-* [Igor Sysoev(author of nginx)](https://twitter.com/isysoev)
-* [Agentzh](https://github.com/agentzh)
 * [Maxim Dounin](https://twitter.com/mdounin)
-* [PiotrSikora](https://github.com/PiotrSikora)
-* [Weibin Yao](https://github.com/yaoweibin)
 * [Roman Arutyunyan](https://github.com/arut)
-* [Evan Miller](https://github.com/evanmiller)
-* [Valentin V. Bartenev](https://twitter.com/ngx_vbart)
-* [Valery Kholodkov](https://github.com/vkholodkov/)
-* [Wandenberg Peixoto](https://github.com/wandenberg)
-* [Joshua Zhu](https://github.com/zhuzhaoyuan)
-* [Simpl](https://github.com/simpl)
-* [Taymindis](https://github.com/Taymindis)
+* Sergey Kandaurov
