@@ -14,8 +14,10 @@ Feel free to add your project :)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
 * [Third Party Modules](#third-party-modules)
 	* [C Modules](#c-modules)
+    * [Rust Modules](#rust-modules)
 	* [Lua Modules](#lua-modules)
 * [Built-in Modules](#built-in-modules)
+* [Njs Projects](#njs-projects)
 * [Tools](#tools)
 * [Tutorials](#tutorials)
 * [Mailing Lists](#mailing-lists)
@@ -23,16 +25,18 @@ Feel free to add your project :)
 * [Active Developers](#active-developers)
 
 ## Well-known Distributions
+* [NGINX](https://nginx.org/en/docs/install.html)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
-* [javascript](https://nginx.org/en/docs/njs/)
+* [javascript (njs)](https://nginx.org/en/docs/njs/)
 * [perl](http://nginx.org/en/docs/http/ngx_http_perl_module.html)
 * [mruby](https://github.com/matsumoto-r/ngx_mruby)
 * [clojure](https://github.com/nginx-clojure/nginx-clojure)
 * [php](https://github.com/rryqszq4/ngx_php)
+* [wasm](https://github.com/Kong/ngx_wasm_module)
 
 ## Builder
 This is bash command line builder that uses this curated list to automate installing and compiling nginx
@@ -149,7 +153,10 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_guess_mime_module](https://github.com/ohnx/nginx-guess-mime) - Guess the MIME type of files served using libmagic.
 * [ngx_http_stat_check](https://github.com/mk-fg/nginx-stat-check) - Dynamic access blacklisting configuration via filesystem paths.
 * [nginx_mime_magic_module](https://github.com/FadedCoder/nginx-mime-magic-module) - Another MIME guesser using libmagic with configurable Magic database path and fallback or compulsory mode.
+* [nginx-otel](https://github.com/nginxinc/nginx-otel) - Module providing support for OpenTelemetry distributed tracing.
 
+## Rust Modules
+* [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
 
 ### Lua Modules
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
@@ -227,7 +234,18 @@ These modules are not distributed with the Nginx source.
 ## Built-in Modules
 For more details, see [nginx.org](http://nginx.org/en/docs/).
 
-
+## Njs Projects
+* [njs-types](https://npm.io/package/njs-types) - Provides type script type definitions for njs.
+* [njs-examples](https://github.com/nginx/njs-examples) - Examples of njs usage.
+* [nginx-njs-usecases](https://github.com/f5devcentral/nginx-njs-usecases) - A collection of njs use cases.
+* [njs-acme](https://github.com/nginx/njs-acme) - ACME protocol implementation in njs allowing Let's Encrypt certificates to be issued directly from nginx.
+* [nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) - S3 gateway for Nginx allowing to proxy requests directly to S3 private buckets.
+* [njs-memory-profiler](https://github.com/4141done/njs-memory-profiler) - Tool to understand per-request memory usage of njs scripts.
+* [nginx-dns](https://github.com/TuxInvader/nginx-dns) - Example njs configuration for using Nginx with DNS services.
+* [njs-prometheus-module](https://github.com/nginxinc/njs-prometheus-module) - Converts NGINX metrics exposed by the API module to a Prometheus format.
+* [nginx-xml-json](https://github.com/lcrilly/nginx-xml-json) - Proof-of-concept solution for presenting XML services as a JSON API.
+* [mqtt5](https://github.com/gallarda/mqtt5) - MQTT 5.0 protocol parser implemented in njs.
+* 
 
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
@@ -285,20 +303,10 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 ## Forum
 
 * [Nginx Forum](http://forum.nginx.org/)
-
+* [Nginx Community Slack](https://community.nginx.org/joinslack)
 * [OpenResty Forum](http://groups.google.com/group/openresty-en)
 
 ## Active Developers
-* [Igor Sysoev(author of nginx)](https://twitter.com/isysoev)
-* [Agentzh](https://github.com/agentzh)
 * [Maxim Dounin](https://twitter.com/mdounin)
-* [PiotrSikora](https://github.com/PiotrSikora)
-* [Weibin Yao](https://github.com/yaoweibin)
 * [Roman Arutyunyan](https://github.com/arut)
-* [Evan Miller](https://github.com/evanmiller)
-* [Valentin V. Bartenev](https://twitter.com/ngx_vbart)
-* [Valery Kholodkov](https://github.com/vkholodkov/)
-* [Wandenberg Peixoto](https://github.com/wandenberg)
-* [Joshua Zhu](https://github.com/zhuzhaoyuan)
-* [Simpl](https://github.com/simpl)
-* [Taymindis](https://github.com/Taymindis)
+* Sergey Kandaurov
