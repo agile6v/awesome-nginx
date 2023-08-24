@@ -246,6 +246,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-xml-json](https://github.com/lcrilly/nginx-xml-json) - Proof-of-concept solution for presenting XML services as a JSON API.
 * [mqtt5](https://github.com/gallarda/mqtt5) - MQTT 5.0 protocol parser implemented in njs.
 * [babel-preset-njs](https://github.com/jirutka/babel-preset-njs) - A Babel preset for njs - NGINX JavaScript.
+* [njs-typescript-starter](https://github.com/jirutka/njs-typescript-starter) - A starting template for developing njs (NGINX JavaScript) scripts for NGINX server in TypeScript.
 
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
