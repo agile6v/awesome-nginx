@@ -279,6 +279,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 * [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
 * [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
+* [nginx-binaries](https://github.com/jirutka/nginx-binaries) - Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
