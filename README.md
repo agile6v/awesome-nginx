@@ -245,7 +245,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [njs-prometheus-module](https://github.com/nginxinc/njs-prometheus-module) - Converts NGINX metrics exposed by the API module to a Prometheus format.
 * [nginx-xml-json](https://github.com/lcrilly/nginx-xml-json) - Proof-of-concept solution for presenting XML services as a JSON API.
 * [mqtt5](https://github.com/gallarda/mqtt5) - MQTT 5.0 protocol parser implemented in njs.
-* 
+* [babel-preset-njs](https://github.com/jirutka/babel-preset-njs) - A Babel preset for njs - NGINX JavaScript.
+* [njs-typescript-starter](https://github.com/jirutka/njs-typescript-starter) - A starting template for developing njs (NGINX JavaScript) scripts for NGINX server in TypeScript.
 
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
@@ -278,6 +279,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default.
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 * [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
+* [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
+* [nginx-binaries](https://github.com/jirutka/nginx-binaries) - Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
