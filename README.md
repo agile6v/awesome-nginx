@@ -88,7 +88,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror. 
 * [ngx_http_dyups_module](https://github.com/yzprofile/ngx_http_dyups_module) - update upstreams' config by restful interface.
 * [ngx_sync_msg_module](https://github.com/yzprofile/ngx_sync_msg_module) - This module provides a mechanism to sync messages between workers for your module. 
-* [nginx-upload-module](https://github.com/vkholodkov/nginx-upload-module/tree/2.2) - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
+* [nginx-upload-module](https://github.com/fdintino/nginx-upload-module) - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
 * [nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file. 
 * [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
 * [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module.
