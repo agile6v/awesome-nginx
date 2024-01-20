@@ -102,7 +102,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_cache_viewer](https://github.com/agile6v/ngx_cache_viewer) - nginx module which adds ability to view cache node info from FastCGI, proxy, SCGI and uWSGI caches.
 * [nginx_http_push_module](https://github.com/slact/nginx_http_push_module) - Turn NGiNX into an adept HTTP push server. 
 * [nginx-selective-cache-purge-module](https://github.com/wandenberg/nginx-selective-cache-purge-module) - A module to purge cache by GLOB patterns.. 
-* [naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX. 
+* [naxsi](https://github.com/wargio/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX. 
 * [couchbase-nginx-module](https://github.com/couchbaselabs/couchbase-nginx-module) - The module for nginx webserver to access Couchbase Server. 
 * [protobuf-nginx](https://github.com/dbcode/protobuf-nginx) - Google Protocol Buffers code generator for nginx module developers. 
 * [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - simple robot mitigation module using cookie based challenge/response technique. 
