@@ -154,7 +154,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_http_stat_check](https://github.com/mk-fg/nginx-stat-check) - Dynamic access blacklisting configuration via filesystem paths.
 * [nginx_mime_magic_module](https://github.com/FadedCoder/nginx-mime-magic-module) - Another MIME guesser using libmagic with configurable Magic database path and fallback or compulsory mode.
 * [nginx-otel](https://github.com/nginxinc/nginx-otel) - Module providing support for OpenTelemetry distributed tracing.
-* [nginx-http-est](https://github/61131/nginx-http-est) - Enrollment over Secure Transport (EST) module for Nginx
+* [nginx-http-est](https://github.com/61131/nginx-http-est) - Enrollment over Secure Transport (EST) module for Nginx
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
