@@ -26,6 +26,7 @@ Feel free to add your project :)
 
 ## Well-known Distributions
 * [NGINX](https://nginx.org/en/docs/install.html)
+* [FreeNGINX](https://freenginx.org/)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 
