@@ -157,6 +157,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-otel](https://github.com/nginxinc/nginx-otel) - Module providing support for OpenTelemetry distributed tracing.
 * [nginx-http-est](https://github.com/61131/nginx-http-est) - Enrollment over Secure Transport (EST) module for Nginx
 * [nginx-http-auth-totp](https://github.com/61131/nginx-http-auth-totp) - Time-based one-time password (TOTP) authentication for Nginx
+* [ngx_status_module](https://github.com/codebytes5/ngx_status_module) - Nginx mod status module similar to Apache plugin
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
