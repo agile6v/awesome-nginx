@@ -29,6 +29,7 @@ Feel free to add your project :)
 * [FreeNGINX](https://freenginx.org/)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
+* [Angie](https://github.com/webserver-llc/angie)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
