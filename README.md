@@ -1,6 +1,3 @@
-
-
-
 # Awesome Nginx [![Build Status](https://travis-ci.org/agile6v/awesome-nginx.svg?branch=master)](https://travis-ci.org/agile6v/awesome-nginx) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome nginx distributions, third party modules, active developers and so forth.
 
@@ -24,12 +21,16 @@ Feel free to add your project :)
 * [Forum](#forum)
 * [Active Developers](#active-developers)
 
-## Well-known Distributions
+## Well-known Nginx Distributions
 * [NGINX](https://nginx.org/en/docs/install.html)
 * [FreeNGINX](https://freenginx.org/)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 * [Angie](https://github.com/webserver-llc/angie)
+
+## Well-known Nginx Proxy Manager Distributions
+
+* [NPMplus](https://github.com/ZoeyVid/NPMplus)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
