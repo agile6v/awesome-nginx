@@ -21,16 +21,12 @@ Feel free to add your project :)
 * [Forum](#forum)
 * [Active Developers](#active-developers)
 
-## Well-known Nginx Distributions
+## Well-known Distributions
 * [NGINX](https://nginx.org/en/docs/install.html)
 * [FreeNGINX](https://freenginx.org/)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 * [Angie](https://github.com/webserver-llc/angie)
-
-## Well-known Nginx Proxy Manager Distributions
-
-* [NPMplus](https://github.com/ZoeyVid/NPMplus)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
@@ -287,6 +283,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.
 * [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
 * [nginx-binaries](https://github.com/jirutka/nginx-binaries) - Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
+* [NPMplus](https://github.com/ZoeyVid/NPMplus)
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
