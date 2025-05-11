@@ -253,7 +253,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
-* [gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
+* [gixy-ng](https://github.com/dvershinin/gixy) - Nginx configuration static analyzer
 * [no-pool-nginx](https://github.com/openresty/no-pool-nginx) - replace nginx's pool mechanism with plain malloc & free to help tools like valgrind. 
 * [nginx-dtrace](https://github.com/openresty/nginx-dtrace) - An nginx fork that adds dtrace USDT probes. 
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development. 
