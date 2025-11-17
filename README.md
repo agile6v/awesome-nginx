@@ -158,6 +158,9 @@ These modules are not distributed with the Nginx source.
 * [nginx-http-auth-totp](https://github.com/61131/nginx-http-auth-totp) - Time-based one-time password (TOTP) authentication for Nginx
 * [nginx-http-filter-data](https://github.com/61131/nginx-http-filter-data) - RFC 2397 "data" URL scheme filter module for Nginx
 * [ngx_status_module](https://github.com/codebytes5/ngx_status_module) - Nginx mod status module similar to Apache plugin
+* [ngx_dynamic_etag](https://github.com/dvershinin/ngx_dynamic_etag) - NGINX module for adding ETag to dynamic content.
+* [ngx_immutable](https://github.com/GetPageSpeed/ngx_immutable) - NGINX module for setting immutable caching on static assets.
+* [ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
