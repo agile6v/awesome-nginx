@@ -161,6 +161,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_dynamic_etag](https://github.com/dvershinin/ngx_dynamic_etag) - NGINX module for adding ETag to dynamic content.
 * [ngx_immutable](https://github.com/GetPageSpeed/ngx_immutable) - NGINX module for setting immutable caching on static assets.
 * [ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers.
+* [nginx-cgi](https://github.com/pjincz/nginx-cgi) - Module providing native CGI support, eliminating the need for fcgiwrap or other FastCGI adapters.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
