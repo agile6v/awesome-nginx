@@ -6,6 +6,7 @@ If you want to contribute, please submit a pull request.
 Feel free to add your project :)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Nginx server orchestration, automated configuration management, and multi-agent infrastructure coordination. MIT licensed.
 # Table of Contents
 * [Well-known Distributions](#well-known-distributions)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
