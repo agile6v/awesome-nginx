@@ -290,6 +290,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
 * [nginx-binaries](https://github.com/jirutka/nginx-binaries) - Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
 * [NPMplus](https://github.com/ZoeyVid/NPMplus) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+* [nginx-modules](https://github.com/blendbyte/nginx-modules) - APT repository providing pre-built NGINX dynamic modules for Debian and Ubuntu (amd64/arm64), installable via `apt` without compiling from source.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
