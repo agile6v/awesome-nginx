@@ -292,6 +292,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [NPMplus](https://github.com/ZoeyVid/NPMplus) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 * [nginx-modules](https://github.com/blendbyte/nginx-modules) - APT repository providing pre-built NGINX dynamic modules for Debian and Ubuntu (amd64/arm64), installable via `apt` without compiling from source.
 * [GetPageSpeed Extras for Debian/Ubuntu](https://www.getpagespeed.com/ubuntu-and-debian-repository) - Free APT repository with 100+ pre-built NGINX dynamic modules for Debian (Bookworm/Trixie) and Ubuntu (Bionic/Focal/Jammy/Noble) on amd64 and arm64. No signup or auth required. Covers ModSecurity, brotli, geoip2, headers-more, JWT, TOTP, naxsi, NJS, and a long tail of modules not packaged elsewhere. Cross-distro counterpart for RHEL/SLES/Amazon Linux at extras.getpagespeed.com.
+* [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects fresh Schema.org JSON-LD into nginx-served sites without redeploys or cron jobs. Production-ready, MIT licensed.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
