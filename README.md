@@ -27,6 +27,8 @@ Feel free to add your project :)
 * [OpenResty](https://github.com/openresty/ngx_openresty)
 * [Tengine](https://github.com/alibaba/tengine)
 * [Angie](https://github.com/webserver-llc/angie)
+* [MyGuard NGINX](https://deb.myguard.nl/nginx-modules/)
+* [MyGuard Angie](https://deb.myguard.nl/angie-modules-optimized-extended/)
 
 ## Embeddable Scripting Languages
 * [lua](https://github.com/openresty/lua-nginx-module)
