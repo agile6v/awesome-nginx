@@ -64,6 +64,7 @@ These modules are not distributed with the Nginx source.
 * [drizzle-nginx-module](https://github.com/openresty/drizzle-nginx-module) - an nginx upstream module that talks to mysql and drizzle by libdrizzle. 
 * [array-var-nginx-module](https://github.com/openresty/array-var-nginx-module) - Add support for array-typed variables to nginx config files.
 * [set-misc-nginx-module](https://github.com/openresty/set-misc-nginx-module) - Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more). 
+* [nginx-error-abuse-module](https://github.com/eilandert/nginx-error-abuse-module) - Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.
 * [nginx-eval-module](https://github.com/vkholodkov/nginx-eval-module) - A module for evaluating memcached or proxy response into variable.
 * [ngx_pagespeed](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx. 
 * [ngx_devel_kit](https://github.com/simpl/ngx_devel_kit) - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
