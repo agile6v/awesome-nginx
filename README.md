@@ -299,6 +299,8 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects fresh Schema.org JSON-LD into nginx-served sites without redeploys or cron jobs. Production-ready, MIT licensed.
 * [nginx-scanner-trap](https://github.com/gistrec/nginx-scanner-trap) - One-script honeypot for existing nginx servers: bots probing paths like /.env or /.git get banned on all ports via fail2ban + nftables. Interactive install with whitelisting, dry-run preview, Debian/Ubuntu, MIT licensed.
 
+* [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
+
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
 * [Nginx documentation](http://nginx.org/en/docs/) - Nginx documentation introduction. 
