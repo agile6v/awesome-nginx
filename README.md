@@ -166,6 +166,7 @@ These modules are not distributed with the Nginx source.
 * [ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers.
 * [ngx_http_securelog_module](https://github.com/no1xpert/ngx_http_securelog_module) - Real-time AES-256-GCM / GPG encrypted access logging. Plaintext never touches disk. SHA-256 key integrity verification at startup.
 * [nginx-cgi](https://github.com/pjincz/nginx-cgi) - Module providing native CGI support, eliminating the need for fcgiwrap or other FastCGI adapters.
+* [nginx-strip-filter-module](https://github.com/myguard-labs/nginx-strip-filter-module) - Dynamic response-body minifier — strips newlines and redundant whitespace from HTML/CSS/JS responses.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
