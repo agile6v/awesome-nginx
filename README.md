@@ -307,6 +307,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects fresh Schema.org JSON-LD into nginx-served sites without redeploys or cron jobs. Production-ready, MIT licensed.
 * [nginx-scanner-trap](https://github.com/gistrec/nginx-scanner-trap) - One-script honeypot for existing nginx servers: bots probing paths like /.env or /.git get banned on all ports via fail2ban + nftables. Interactive install with whitelisting, dry-run preview, Debian/Ubuntu, MIT licensed.
 * [maint](https://github.com/glidecraft/nginx-maint) - Toggle nginx maintenance mode per site via a flag file, no reload needed to flip it on or off. Whole-site and partial-site gating snippets included, plus a styled 503 page. MIT licensed.
+* [RedirectForge](https://redirectforge.thememend.com) - Web tool that converts redirect rules between nginx, Apache .htaccess, Netlify, Vercel, Next.js and Cloudflare formats. Free up to 200 rules with no signup (paid tier above that); rules that cannot be converted exactly get a line-numbered warning.
 
 * [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 
