@@ -173,6 +173,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-cache-turbo-module](https://github.com/myguard-labs/nginx-cache-turbo-module) - Built-in full-page cache for nginx — a tiny Varnish living inside the worker.
 * [nginx-autocert-module](https://github.com/myguard-labs/nginx-autocert-module) - Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.
 * [nwall](https://github.com/coalaura/nwall) - Ultra-fast bot-spam filter that cuts resource usage by hard-closing requests via User-Agent and URI rules.
+* [nginx-modsecurity](https://github.com/fabiocicerchia/nginx-modsecurity) - ModSecurity v3 dynamic module for nginx as an artifact - a .so you load into your own nginx.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
