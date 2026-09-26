@@ -273,6 +273,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
 * [gixy-ng](https://github.com/dvershinin/gixy) - Nginx configuration static analyzer
 * [nginx-config-auditor](https://github.com/errantsolutions/nginx-config-auditor) - Free, stdlib-only Python static analyzer for nginx configs: flags weak TLS versions/ciphers, missing security headers, autoindex exposure, and more. No dependencies, read-only, works against a config directory or a running Docker container.
+* [Homedex](https://github.com/HarshShah0203/homedex) - Read-only homelab inventory that parses nginx and SWAG config files (includes, set variables, upstream groups), maps each server_name and location to the container behind it and flags broken routes.
 * [no-pool-nginx](https://github.com/openresty/no-pool-nginx) - replace nginx's pool mechanism with plain malloc & free to help tools like valgrind. 
 * [nginx-dtrace](https://github.com/openresty/nginx-dtrace) - An nginx fork that adds dtrace USDT probes. 
 * [test-nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and OpenResty Lua library development. 
