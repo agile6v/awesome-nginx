@@ -314,6 +314,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [RedirectForge](https://redirectforge.thememend.com) - Web tool that converts redirect rules between nginx, Apache .htaccess, Netlify, Vercel, Next.js and Cloudflare formats. Free up to 200 rules with no signup (paid tier above that); rules that cannot be converted exactly get a line-numbered warning.
 
 * [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
+* [nginx-mailer](https://github.com/GeiserX/nginx-mailer) - Docker image based on nginx:alpine that serves a static site and sends its contact form by SMTP, with optional Cloudflare Turnstile.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
