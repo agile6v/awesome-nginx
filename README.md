@@ -315,6 +315,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 * [nginx-mailer](https://github.com/GeiserX/nginx-mailer) - Docker image based on nginx:alpine that serves a static site and sends its contact form by SMTP, with optional Cloudflare Turnstile.
+* [nginx-vhost](https://github.com/nowshad7/nginx-vhost) - CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
