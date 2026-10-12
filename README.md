@@ -177,6 +177,7 @@ These modules are not distributed with the Nginx source.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
+* [ngx_mbrotli](https://github.com/M-Compressors/ngx_mbrotli) - Safe Rust brotli compression module.
 
 ### Lua Modules
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
