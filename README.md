@@ -177,6 +177,7 @@ These modules are not distributed with the Nginx source.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
+* [ngx_mbrotli](https://github.com/M-Compressors/ngx_mbrotli) - Safe Rust brotli compression module.
 
 ### Lua Modules
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API. 
@@ -316,6 +317,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 * [nginx-mailer](https://github.com/GeiserX/nginx-mailer) - Docker image based on nginx:alpine that serves a static site and sends its contact form by SMTP, with optional Cloudflare Turnstile.
 * [ipscanner-forward-auth](https://github.com/ipscanner/ipscanner-forward-auth) - Forward-auth sidecar for nginx `auth_request` (also Nginx Proxy Manager, Apache, HAProxy, Traefik and Caddy) that checks each visitor with the IPScanner API, passes verdict headers to the app and, in enforce mode, blocks bots, Tor, VPN and proxies. Needs an IPScanner API key. MIT licensed.
+* [nginx-vhost](https://github.com/nowshad7/nginx-vhost) - CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
