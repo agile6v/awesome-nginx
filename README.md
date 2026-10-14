@@ -316,6 +316,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [Laradock](https://github.com/laradock/laradock) - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 * [nginx-mailer](https://github.com/GeiserX/nginx-mailer) - Docker image based on nginx:alpine that serves a static site and sends its contact form by SMTP, with optional Cloudflare Turnstile.
+* [ipscanner-forward-auth](https://github.com/ipscanner/ipscanner-forward-auth) - Forward-auth sidecar for nginx `auth_request` (also Nginx Proxy Manager, Apache, HAProxy, Traefik and Caddy) that checks each visitor with the IPScanner API, passes verdict headers to the app and, in enforce mode, blocks bots, Tor, VPN and proxies. Needs an IPScanner API key. MIT licensed.
 * [nginx-vhost](https://github.com/nowshad7/nginx-vhost) - CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.
 
 ## Tutorials
