@@ -318,6 +318,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-mailer](https://github.com/GeiserX/nginx-mailer) - Docker image based on nginx:alpine that serves a static site and sends its contact form by SMTP, with optional Cloudflare Turnstile.
 * [ipscanner-forward-auth](https://github.com/ipscanner/ipscanner-forward-auth) - Forward-auth sidecar for nginx `auth_request` (also Nginx Proxy Manager, Apache, HAProxy, Traefik and Caddy) that checks each visitor with the IPScanner API, passes verdict headers to the app and, in enforce mode, blocks bots, Tor, VPN and proxies. Needs an IPScanner API key. MIT licensed.
 * [nginx-vhost](https://github.com/nowshad7/nginx-vhost) - CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.
+* [Server Rules Generator](https://www.paidhosting.com/htaccess-nginx-generator/) - [GitHub](https://github.com/PaidHost/server-rules-generator) - Generates matching nginx, Apache .htaccess, Caddy and Cloudflare rules from one set of options: HTTPS and www redirects, bulk redirects with chains and loops fixed, security headers, AI crawler and bad bot blocking. Free, no signup, MIT licensed.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
