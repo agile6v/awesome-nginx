@@ -174,6 +174,7 @@ These modules are not distributed with the Nginx source.
 * [nginx-autocert-module](https://github.com/myguard-labs/nginx-autocert-module) - Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.
 * [nwall](https://github.com/coalaura/nwall) - Ultra-fast bot-spam filter that cuts resource usage by hard-closing requests via User-Agent and URI rules.
 * [nginx-modsecurity](https://github.com/fabiocicerchia/nginx-modsecurity) - ModSecurity v3 dynamic module for nginx as an artifact - a .so you load into your own nginx.
+* [ngx-tcp-fingerprint](https://github.com/studio-vitalyn/ngx-tcp-fingerprint) - Passive TCP/IP stack fingerprint of the client, read from its SYN (p0f-style: TTL, window, MSS, options, quirks), plus TCP vs TLS round-trip times to spot tunnelled clients.
 
 ## Rust Modules
 * [ngx-rust](https://github.com/nginxinc/ngx-rust) - Rust bindings for Nginx modules.
