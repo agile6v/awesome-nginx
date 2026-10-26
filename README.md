@@ -289,6 +289,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-boilerplate](https://github.com/Umkus/nginx-boilerplate) - Awesome Nginx configuration template. 
 * [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server. 
 * [GoAccess](https://goaccess.io/) - real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. 
+* [Skald](https://github.com/spcaeo/skald) - Self-hosted web analytics that reads Nginx (and other) access logs and separates people from AI assistants and crawlers. Source-available (Elastic License 2.0), free to self-host.
 * [nginx-conf](https://github.com/lebinh/nginx-conf) - A collection of useful Nginx configuration snippets. 
 * [libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.. 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) - A bash script for deleting items from Nginx cache. 
