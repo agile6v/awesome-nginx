@@ -275,6 +275,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 ## Tools
 * [nginx-devel-utils](https://github.com/openresty/nginx-devel-utils) - Utilities for nginx module development. 
 * [gixy-ng](https://github.com/dvershinin/gixy) - Nginx configuration static analyzer
+* [GetPageSpeed Amplify](https://amplify.getpagespeed.com/) - Hosted NGINX monitoring with built-in continuous gixy scanning; drop-in compatible with the deprecated `nginx-amplify-agent`.
 * [nginx-config-auditor](https://github.com/errantsolutions/nginx-config-auditor) - Free, stdlib-only Python static analyzer for nginx configs: flags weak TLS versions/ciphers, missing security headers, autoindex exposure, and more. No dependencies, read-only, works against a config directory or a running Docker container.
 * [Homedex](https://github.com/HarshShah0203/homedex) - Read-only homelab inventory that parses nginx and SWAG config files (includes, set variables, upstream groups), maps each server_name and location to the container behind it and flags broken routes.
 * [no-pool-nginx](https://github.com/openresty/no-pool-nginx) - replace nginx's pool mechanism with plain malloc & free to help tools like valgrind. 
@@ -323,6 +324,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-vhost](https://github.com/nowshad7/nginx-vhost) - CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.
 * [Server Rules Generator](https://www.paidhosting.com/htaccess-nginx-generator/) - [GitHub](https://github.com/PaidHost/server-rules-generator) - Generates matching nginx, Apache .htaccess, Caddy and Cloudflare rules from one set of options: HTTPS and www redirects, bulk redirects with chains and loops fixed, security headers, AI crawler and bad bot blocking. Free, no signup, MIT licensed.
 * [DevOpsForge](https://devops-config-generator.vercel.app/) - [GitHub](https://github.com/Gohar01/devops-config-generator) - 100% in-browser visual generator for production Docker Compose stacks, multi-stage Dockerfiles, and Nginx/Caddy reverse proxies with SSL. Free, no signup, zero telemetry.
+* [NGINX Config Checker](https://www.getpagespeed.com/check-nginx-config) - Paste nginx.conf or pipe `nginx -T` to check syntax with a real `nginx -t`, find security misconfigurations with Gixy, and see which known CVEs affect your NGINX version (from the official nginx.org advisories), including whether the vulnerable pattern is present in your config. Shareable result URLs. Free, no signup.
 * [PatchBell](https://patchbell.com/nginx/check-version/) - Check whether your nginx version has the fix for a given CVE, with every row linked to the official source. Runs in the browser, does not scan or connect to your server. Free, no signup.
 
 ## Tutorials
