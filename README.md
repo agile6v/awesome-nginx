@@ -291,6 +291,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server. 
 * [GoAccess](https://goaccess.io/) - real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. 
 * [Skald](https://github.com/spcaeo/skald) - Self-hosted web analytics that reads Nginx (and other) access logs and separates people from AI assistants and crawlers. Source-available (Elastic License 2.0), free to self-host.
+* [crawlaudit](https://github.com/hamarshehmhmd/crawlaudit) - CLI that reads nginx (and Apache/Caddy) access logs and shows which AI crawlers hit you, their bandwidth, whether they fetched URLs your robots.txt disallows, and whether their IPs match the operator's published ranges; then generates nginx `map` block rules that keep robots.txt reachable. Zero dependencies, AGPL-3.0.
 * [nginx-conf](https://github.com/lebinh/nginx-conf) - A collection of useful Nginx configuration snippets. 
 * [libngxcore](https://github.com/cubicdaiya/libngxcore) - libngxcore is the library built from nginx core APIs.. 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) - A bash script for deleting items from Nginx cache. 
