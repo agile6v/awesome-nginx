@@ -327,6 +327,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [DevOpsForge](https://devops-config-generator.vercel.app/) - [GitHub](https://github.com/Gohar01/devops-config-generator) - 100% in-browser visual generator for production Docker Compose stacks, multi-stage Dockerfiles, and Nginx/Caddy reverse proxies with SSL. Free, no signup, zero telemetry.
 * [NGINX Config Checker](https://www.getpagespeed.com/check-nginx-config) - Paste nginx.conf or pipe `nginx -T` to check syntax with a real `nginx -t`, find security misconfigurations with Gixy, and see which known CVEs affect your NGINX version (from the official nginx.org advisories), including whether the vulnerable pattern is present in your config. Shareable result URLs. Free, no signup.
 * [PatchBell](https://patchbell.com/nginx/check-version/) - Check whether your nginx version has the fix for a given CVE, with every row linked to the official source. Runs in the browser, does not scan or connect to your server. Free, no signup.
+* [datacenter-ip-ranges](https://github.com/moonetix/datacenter-ip-ranges) - Daily cloud, CDN and Tor IP ranges from the providers' own feeds, with a ready-made `geo` map setup to tag datacenter traffic. Free, MIT licensed.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
