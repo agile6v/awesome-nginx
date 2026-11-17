@@ -306,6 +306,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) - Compile Nginx from source with custom modules on Debian and Ubuntu
 * [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 * [BunkerWeb](https://github.com/bunkerity/bunkerweb) - Open-source Web Application Firewall and reverse proxy based on NGINX.
+* [Corvus](https://github.com/corvus-gateway/corvus) - Self-hosted web gateway based on OpenResty: reverse proxy with an Nginx Proxy Manager-style console, Let's Encrypt, WAF rules, automatic bans, bot challenge and a waiting room, in one container.
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 * [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) - Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).
 * [nginx-testing](https://github.com/jirutka/nginx-testing) - Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.
