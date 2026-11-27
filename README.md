@@ -330,6 +330,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [PatchBell](https://patchbell.com/nginx/check-version/) - Check whether your nginx version has the fix for a given CVE, with every row linked to the official source. Runs in the browser, does not scan or connect to your server. Free, no signup.
 * [datacenter-ip-ranges](https://github.com/moonetix/datacenter-ip-ranges) - Daily cloud, CDN and Tor IP ranges from the providers' own feeds, with a ready-made `geo` map setup to tag datacenter traffic. Free, MIT licensed.
 * [NoctHost nginx reverse proxy generator](https://nocthost.com/tools/nginx-reverse-proxy-generator) - Builds an nginx server block that proxies a domain to a local app port, with optional WebSocket headers, a Let's Encrypt TLS block and an HTTP to HTTPS redirect. Runs in the browser, nothing is sent to a server. Free, no signup.
+* [Noust](https://github.com/Perkybeet/noust) - Deploys web apps behind nginx on your own servers: writes each site from a template, edits existing ones with a lossless config parser, tests every change with `nginx -t` before reloading, and never rewrites a site it did not write.
 
 ## Tutorials
 * [Nginx admin guide](https://www.nginx.com/resources/admin-guide/) - Nginx and nginx plus admin guide. 
@@ -343,6 +344,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [OpenResty best practice](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details) - OpenResty best practice(In Chinese). 
 * [Nginx-cheatsheet](https://github.com/SimulatedGREG/nginx-cheatsheet) - A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
+* [One subtraction below zero](https://artigram.cafeboon.com/p/kaytrev) - Interactive explainer of the HTTP/2 flaws nginx fixed on 18 November 2026, with a toy counter you can break, a step-by-step replay of the use-after-free and a check of which fixes your version needs.
 
 ## Mailing Lists
 
