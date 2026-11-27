@@ -329,6 +329,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [NGINX Config Checker](https://www.getpagespeed.com/check-nginx-config) - Paste nginx.conf or pipe `nginx -T` to check syntax with a real `nginx -t`, find security misconfigurations with Gixy, and see which known CVEs affect your NGINX version (from the official nginx.org advisories), including whether the vulnerable pattern is present in your config. Shareable result URLs. Free, no signup.
 * [PatchBell](https://patchbell.com/nginx/check-version/) - Check whether your nginx version has the fix for a given CVE, with every row linked to the official source. Runs in the browser, does not scan or connect to your server. Free, no signup.
 * [datacenter-ip-ranges](https://github.com/moonetix/datacenter-ip-ranges) - Daily cloud, CDN and Tor IP ranges from the providers' own feeds, with a ready-made `geo` map setup to tag datacenter traffic. Free, MIT licensed.
+* [NoctHost nginx reverse proxy generator](https://nocthost.com/tools/nginx-reverse-proxy-generator) - Builds an nginx server block that proxies a domain to a local app port, with optional WebSocket headers, a Let's Encrypt TLS block and an HTTP to HTTPS redirect. Runs in the browser, nothing is sent to a server. Free, no signup.
 * [Noust](https://github.com/Perkybeet/noust) - Deploys web apps behind nginx on your own servers: writes each site from a template, edits existing ones with a lossless config parser, tests every change with `nginx -t` before reloading, and never rewrites a site it did not write.
 
 ## Tutorials
